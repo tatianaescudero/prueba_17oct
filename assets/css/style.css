@@ -41,17 +41,23 @@ p {
 	padding-top: 60px;
 	padding-bottom: 20px;
 }
-.container2 {
-	background: url(../img/img_banner_ninoycancer.jpg) no-repeat top center / cover transparent;
+.huincha {
+	background: url(../img/img_huincha_ninoycancer.jpg) no-repeat top center / cover transparent;
 	color: white;
 	text-align: center;
 	margin-top: 0;
 	max-width: 1280px;
 	width: 100%;
 	margin: 0 auto;
-	height: 350px;
+	height: 220px;
 	padding-top: 60px;
 	padding-bottom: 20px;
+}
+.huincha p {
+	max-width: 80%;
+	text-align: center;
+	margin: 0 auto;
+	padding-bottom: 10px;
 }
 .container h1 {
 	color: white;
